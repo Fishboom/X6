@@ -114,7 +114,7 @@ const nodeStatusList = [
   [
     {
       id: '1',
-      status: 'running',
+      status: 'success',
     },
     {
       id: '2',
@@ -136,7 +136,7 @@ const nodeStatusList = [
     },
     {
       id: '2',
-      status: 'running',
+      status: 'success',
     },
     {
       id: '3',
@@ -180,7 +180,7 @@ const nodeStatusList = [
     },
     {
       id: '4',
-      status: 'failed',
+      status: 'success',
     },
   ],
 ]
